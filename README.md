@@ -1,12 +1,52 @@
-# React + Vite
+# 🌲 Forest-Themed To-Do List App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Made with React](https://img.shields.io/badge/Made%20with-React-blue)](https://reactjs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Styled%20with-TailwindCSS-38B2AC.svg?logo=tailwindcss)](https://tailwindcss.com/)
+[![Hosted on GitHub Pages](https://img.shields.io/badge/Hosted%20on-GitHub%20Pages-orange)](https://anshumangarg5410.github.io/ToDoList/)
 
-Currently, two official plugins are available:
+A calm, aesthetic, and fully responsive **To-Do List web app** built using **React**, **Tailwind CSS**, and **Vite**.  
+Designed with a peaceful **forest background** to bring zen vibes while managing your tasks 🍃🧘.
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- ✅ Add, edit, and delete tasks
+- 🌿 Forest background theme
+- 🌀 Rounded checkboxes with glow effects
+- 🎨 Tailwind CSS styling with responsive layout
+- 💾 Option to save tasks in localStorage
+- ⚡ Super-fast build with Vite
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+| 🔧 Tool          | 🔍 Description                                |
+|------------------|-----------------------------------------------|
+| ⚛️ React         | JavaScript library for building UI            |
+| 🎨 Tailwind CSS  | Utility-first CSS framework                   |
+| ⚡ Vite           | Lightning-fast frontend build tool            |
+| 🌐 gh-pages      | Deploy React app to GitHub Pages              |
+| 📁 localStorage  | (Optional) Store tasks in browser locally     |
+
+---
+
+### 🛠️ Getting Started
+
+```bash
+# Clone the repo
+git clone https://github.com/anshumangarg5410/TodoList_2.git
+cd ToDoList
+
+# Install dependencies
+npm install
+
+# Run the app locally
+npm run dev
+
+```
+
+<hr>
+
+### Currently in making! 
