@@ -46,14 +46,11 @@ function App() {
 
         <Addform/>
 
-        <div className="tasks bg-transparent w-[90%] py-5 h-[90%] gap-[10px] flex flex-col items-center">
-          <div className="main h-[100%] flex flex-col gap-[15px]">
+        <div className="tasks bg-transparent w-[90%] py-5 h-[90%] space-y-2 flex-1 flex-col items-center scrollable-content overflow-y-auto">
+
             {todos.map((todo) => (
-              <div key={todo.id} className="w-full">
-                <TodoItem todo={todo}/>
-              </div>
+              <Item key={todo.id} todo={todo}/>
             ))}
-          </div>
 
         </div>
       </div>
