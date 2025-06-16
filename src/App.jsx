@@ -33,7 +33,7 @@ function App() {
           <div className="task h-[50px] w-full bg-green-500 rounded-lg flex justify-evenly items-center ">
             <label class="inline-flex items-center cursor-pointer">
               <input type="checkbox" class="peer hidden w-[10%] " />
-              <div class="w-5 h-5 rounded-full border-2 border-red-400 peer-checked:bg-blue-600  peer-checked:border-blue-600 transition-all"></div>
+              <div class="w-5 h-5 rounded-full border-2 border-red-400 peer-checked:bg-blue-600 npm  peer-checked:border-blue-600 transition-all"></div>
             </label>
             <input
               type="text"
