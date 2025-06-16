@@ -47,6 +47,3 @@ npm run dev
 
 ```
 
-<hr>
-
-### Currently in making! 
