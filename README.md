@@ -38,7 +38,7 @@ Designed with a peaceful **forest background** to bring zen vibes while managing
 ```bash
 # Clone the repo
 git clone https://github.com/anshumangarg5410/TodoList_2.git
-cd ToDoList
+cd ToDoList_2
 
 # Install dependencies
 npm install
