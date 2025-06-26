@@ -10,6 +10,11 @@ A calm, aesthetic, and fully responsive **To-Do List web app** built using **Rea
 Designed with a peaceful **forest background** to bring zen vibes while managing your tasks 🍃🧘.
 ---
 
+## 🖥️ Live Preview
+
+🌐 [View Website](https://anshumangarg5410.github.io/TodoList_2/)
+
+
 ## ✨ Features
 
 - ✅ Add, edit, and delete tasks
